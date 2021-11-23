@@ -1,0 +1,114 @@
+﻿  gra[c++].cpp
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(46,23): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(46,20): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(67,23): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(67,20): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(134,14): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(135,15): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(145,26): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(189,14): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(190,15): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(203,25): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(222,14): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(223,15): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(247,12): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(254,1): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(285,23): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(285,20): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(286,1): warning C4305: "=": obcięcie z "double" do "float"
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(298,1): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(302,79): warning C4244: "argument": konwersja z "float" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(305,80): warning C4244: "argument": konwersja z "float" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(316,14): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(317,15): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(324,26): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(366,14): warning C4244: "inicjowanie": konwersja z "sf::Int64" do "float", możliwa utrata danych
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(394,20): warning C4305: "=": obcięcie z "double" do "float"
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(411,19): warning C4305: "=": obcięcie z "double" do "float"
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(421,21): warning C4305: "=": obcięcie z "double" do "float"
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(481,22): warning C4305: "=": obcięcie z "double" do "float"
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(496,22): warning C4305: "=": obcięcie z "double" do "float"
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(511,22): warning C4305: "=": obcięcie z "double" do "float"
+A:\gra[c++]\gra[c++]\gra[c++]\gra[c++].cpp(525,22): warning C4305: "=": obcięcie z "double" do "float"
+  Trwa generowanie kodu
+  1 of 191 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  gra[c++].vcxproj -> A:\gra[c++]\gra[c++]\x64\Release\gra[c++].exe

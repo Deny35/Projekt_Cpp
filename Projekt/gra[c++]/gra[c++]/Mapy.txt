@@ -1,0 +1,156 @@
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+0                                                                                                                      0
+0                                                                                                                      0
+0                                                                                                                      0
+0                                                                                                                      0
+0                                                                                  GGGGGG                              0
+0                                                                          GGGGGGGG       K  K  K                      0
+0                                                                  GGGG    G             GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+0                                                                G       G                                             0
+0                                                               G                                                      0
+0                                             GGGGG            G                                                       0
+0                                                             G                                                        0
+0                                                         K                                                            0
+0                                        GGGGG          GGGG                                                           0
+0                                                                                                                      0
+0           GGGGGGGGGGGGGGGGGGGGGGGGGG                                                                                 0
+0     G                                                                                                                0
+0      G                                                                                                               0
+0                                                                                                                      0
+0                                                                                                                      0
+0          GGGG                                                                                                        0
+0               G                                                                                                      0
+0                GK                                                                                                    0
+0                 G                                                                                                    0
+0                  GGG                                                                                                 0
+0                        K     K           GGGG                                                                        0
+0                      GGGGGGGGGGGG                                                                                    0
+0                                                   K                                                                  0
+0                                               GGGGG                                                                  0
+0                                              G                                                                       0
+0                                             G                                                                        0
+0               K M        GGGGG          K                                                                            0
+0              GGGGGGG                  GGGGG                                                                          0
+0      GIG                                                                                                             0
+0                                                                                                                      0
+0                                                                                                                      0
+0   1                                                   S                                               S              0
+GGGGGGGGGGGGGGGG    GGGGGGG     GGGGGGGGGGG           GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+DDDDDDDDDDDDDDDDHHHHDDDDDDDHHHHHDDDDDDDDDDDHHHHHHHHHHHDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+0                                                                                                                      0
+0                                                                                                                      0
+0      S    2                     S                                                                                    0
+0   GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG                                            GGGGGG                                 0
+0                                      G  G  G  G G                                           GGGGG    GGGG   GGGGGG   0
+0                                                    GGG                                                               0
+0                                                          GGGGG                                                       0
+0                                                                            GGGGG                                     0
+0                                                                                                                      0
+0                                                                  GGGGGGG                                             0
+0                                                                                    GGGGGG                            0
+0                                                                                              G                       0
+0                                                        GGGGGGGGG                               G                     0
+0                                                                                                  G                   0
+0                                                                    GGGGGG                          G                 0
+0                                                                                                        GGGGGG        0
+0                                                                                                                      0
+0                                                                                                                      0
+0                                                                                                                      0
+0                                                                                                                GGG   0
+0                                                                                                                      0
+0                                                                                                                      0
+0                                                               GGGGG                                       GGGGG      0
+0                                                                                                                      0
+0                                                            G            GGGG                                         0
+0                GGGGGGGGGGGG                                                                         GGGGG            0
+0               G                          G                                    GGGGG                                  0
+0              G                          G G         GGGGGG                                                           0
+0                                  GGGG  G   GGGGGGGGG                                                                 0
+0      GGG                                                                                     GGGGG                   0
+0         GGG                                                                                                          0
+0                                                                                                                      0
+0                                                                                                                      0
+0 G                                                                                                                    0
+0                                                                                                                      0
+0                                                                                                                       0
+GGGGGGGGGGGGGGGG    GGG GGG     GGGGGGGGGGG           GGGGGGGGGGGGGGGGGGGGGGGGGG     GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+DDDDDDDDDDDDDDDDHHHHDDDHDDDHHHHHDDDDDDDDDDDHHHHHHHHHHHDDDDDDDDDDDDDDDDDDDDDDDDDDHHHHHDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+0                           G                                                                     G                    0
+0                           G                           S                             S           G                    0
+0                           G                         GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG          G                    0
+0                           G                 GGG                                      G          G                    0
+0                GGGKGGKGGKGG                         GGGG                               G      3 G                    0
+0               G                                            A                            GGGGGGGGG                    0
+0              G                                             KGGGGG                                                    0                                                                                                            0
+0             G                                                    G                                                   0
+0            G                                                      G                                                  0
+0  G     G G                                                         G                                                 0
+0                                                                    GGGGG                                             0
+0   G                                                                                                                  0
+0       A                                                                                                              0
+0     GGKG                                                           GGGGGGGGGGGGGGGGG                                 0
+0                                                                   G                                                  0
+0                                                             AAA  G                   GGGGG                           0
+0       GGGG                                               GGGKKKGG                            GGGG                    0
+0                                                                                                  GGGG                0
+0                                                     A                                                GGGG            0
+0              GGGGGG                               GGKGGG                                                 GGGG        0
+0                                                                                                              GGG     0
+0                         GGGG                 GGGGG                                                                   0
+0                                                                                                                      0
+0                                                                                                                      0
+0                      GGGGGGGGGGGGGGGGGGGGGG                                                                          0
+0                                                                                                                      0
+0                                                                                                                      0
+0               A                                                                                                      0
+0              GKGGG                                                                                                   0
+0                                                                                                                      0
+0                      GGG                                                                                             0
+0                                                                                                                      0
+0                                                                                                                      0
+0                                                                                                                      0
+0                           G                                                                                          0
+0            A             G       A  A               S      A           S                           B                 0
+GGGGGGGGGGGGGKGG    GGG GGG     GGGKGGGKGGG           GGGGGGGGGGKGGGGGGGGGGGGGGG     GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+DDDDDDDDDDDDDDDDHHHHDDDHDDDHHHHHDDDDDDDDDDDHHHHHHHHHHHDDDDDDDDDDDDDDDDDDDDDDDDDDHHHHHDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+A00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+0                                                                                                                      0
+0                                                                                                                      0
+0                                                                                                                      0
+0                                     GGGGG                                                                            0
+0                                                                                                                      0
+0                                              GGG              GGGGGG                                                 0
+0                              GGGG                   GGGGGG              GGGGGGGGGGG                                  0                                                                                                            0
+0                                                                        G                                             0
+0                        GGG                                            G                                              0
+0                 GGGGG                                               G                                                0
+0                                                              GGGGGGGG                                                0
+0                                                                                                  GGGG                0
+0    GGGGGG                                                                                                            0
+0                                                      GGGGG                            GGGGG      G         G         0
+0                                                                                 GGGGGG           D                   0
+0                                                                 GGGGGG                           D      KGGGG        0
+0            GGGGG                                                                                 D                   0
+0                 GGGGG                                                                            D                   0
+0                      GGGGG                      G                                                D                   0
+0                                                 D                                                GGGGGGG             0
+0                                                 D                                                       G            0
+0                              GGGGGG             D                                                        G           0
+0          4                                      D                                                         GGGG       0
+0         GGGGG                                   DP                                                                   0
+0                                    GGGGGG       GGG                                                                  0
+0                 GGGGG                                 GGGGG GG                                                 G     0
+0                                GGGG                                                                         GGGGGGG  0
+0                                                                                                                      0
+0                                                                   GGGGGGG                                            0
+0                                                                                                                      0
+0                                                                            GGGGGGG                GGGGGGG            0
+0                                                                                                                      0
+0                                                             GGGGGG                  GGGGGG   GGGGG                   0
+0                                                                                                                      0
+0                                                                                                                      0
+0                                 S                                         S                                          0
+GGGGGGGGGGGGGGGG    GGG GGG     GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG     GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+DDDDDDDDDDDDDDDDHHHHDDDHDDDHHHHHDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDHHHHHDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
