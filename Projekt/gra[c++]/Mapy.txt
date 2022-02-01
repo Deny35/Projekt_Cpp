@@ -4,7 +4,7 @@
 0                                                                                                                      0
 0                                                                                                                      0
 0                                                                                  GGGGGG                              0
-0                                                                          GGGGGGGG       A  A  A                      0
+0                                                                          GGGGGGGG       A  A  A                  1   0
 0                                                                  GGGG    D             GIGGIGGIGGGGGGGGGGGGGGGGGGGGGGG
 0                                                                G       G                                             0
 0                                                               G                                                      0
@@ -34,7 +34,7 @@
 0     GJIJG                                                                                                            0
 0                                                                                                                      0
 0                                                                                                                      0
-0            1                                          S                                               S              0
+0                                                       S                                               S              0
 GGGGGGGGGGGGGGGG    GGGGGGG     GGGGGGGGGGG           GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
 DDDDDDDDDDDDDDDDHHHHDDDDDDDHHHHHDDDDDDDDDDDHHHHHHHHHHHDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
